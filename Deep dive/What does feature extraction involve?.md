@@ -1,0 +1,1 @@
+Feature extraction in audio processing involves converting raw audio signals into a set of more meaningful and interpretable features that can be used for further analysis, such as classification or recognition. These features are typically derived from the frequency and temporal characteristics of the audio. 

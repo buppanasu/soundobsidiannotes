@@ -1,0 +1,1 @@
+It uses **FFT (Fast Fourier Transform)** to analyze the frequency content of the audio.
